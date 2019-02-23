@@ -1,0 +1,11 @@
+C:\Users\kangf\AppData\Local\Temporary Projects\SampleCode1\bin\Debug\SampleCode1.exe.config
+C:\Users\kangf\AppData\Local\Temporary Projects\SampleCode1\bin\Debug\SampleCode1.exe
+C:\Users\kangf\AppData\Local\Temporary Projects\SampleCode1\bin\Debug\SampleCode1.pdb
+C:\Users\kangf\AppData\Local\Temporary Projects\SampleCode1\obj\Debug\SampleCode1.csprojAssemblyReference.cache
+C:\Users\kangf\AppData\Local\Temporary Projects\SampleCode1\obj\Debug\SampleCode1.Form1.resources
+C:\Users\kangf\AppData\Local\Temporary Projects\SampleCode1\obj\Debug\SampleCode1.Form2.resources
+C:\Users\kangf\AppData\Local\Temporary Projects\SampleCode1\obj\Debug\SampleCode1.Properties.Resources.resources
+C:\Users\kangf\AppData\Local\Temporary Projects\SampleCode1\obj\Debug\SampleCode1.csproj.GenerateResource.cache
+C:\Users\kangf\AppData\Local\Temporary Projects\SampleCode1\obj\Debug\SampleCode1.csproj.CoreCompileInputs.cache
+C:\Users\kangf\AppData\Local\Temporary Projects\SampleCode1\obj\Debug\SampleCode1.exe
+C:\Users\kangf\AppData\Local\Temporary Projects\SampleCode1\obj\Debug\SampleCode1.pdb
